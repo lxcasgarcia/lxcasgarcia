@@ -1,16 +1,16 @@
-## Hi there 👋
+### Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**lxcasgarcia/lxcasgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou no **1º semestre de Análise e Desenvolvimento de Sistemas**. Sempre fui apaixonado por tecnologia e, agora que iniciei minha formação, meu objetivo é construir minha carreira na área de **programação**.
 
-Here are some ideas to get you started:
+Além da graduação, também estou fazendo o curso de **Full Stack** na [Rocketseat](https://www.rocketseat.com.br/), onde estou adquirindo conhecimentos práticos em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **HTML**, **CSS**, **JavaScript**, **TypeScript**
+- ⚛️ **React** no desenvolvimento de interfaces
+- 🔗 **Node.js** para desenvolvimento backend
+- 🗄️ Banco de dados: **SQLite** e **PostgreSQL**
+- 🛠️ Criação de APIs, integração com bancos de dados e desenvolvimento de aplicações backend
+
+---
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-dos-santos-garcia/)
+- 📧 E-mail: *lucasdsantosgarcia@gmail.com*
