@@ -1,6 +1,6 @@
 ### Seja bem-vindo(a) ao meu perfil!
 
-Atualmente, estou no **1º semestre de Análise e Desenvolvimento de Sistemas**. Sempre fui apaixonado por tecnologia e, agora que iniciei minha formação, meu objetivo é construir minha carreira na área de **programação**.
+Atualmente, estou no **2º ano de Análise e Desenvolvimento de Sistemas**.
 
 Além da graduação, também fiz um curso de **Desenvolvimento Full Stack** na [Rocketseat](https://www.rocketseat.com.br/).
 
